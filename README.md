@@ -5,6 +5,6 @@
 
 at [Foxconn](https://www.foxconn.com/en-us/),I :
 - build `React` SPA with React Native and Electron;
-- Develop on a  `lua` software fram to send diag to Apple Products;  
+- Develop on a  `lua` software frame to send diag to Apple Products;  
 
 💻 &nbsp; I like building apps with TypeScript, React, Node.js, Python and GraphQL!
