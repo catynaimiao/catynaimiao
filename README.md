@@ -2,11 +2,7 @@
 
 **My daily work**
 
-I work with **React** and **Nodejs** at [Foxconn](https://www.foxconn.com/en-us/)
-
-at [Foxconn](https://www.foxconn.com/en-us/),I :
-- build `React` SPA with React Native and Electron;
-- Develop on a  `lua` software frame to send diag to Apple Products;  
+Learn NextJs and build components with tailwindcss.
 
 **My Primary Like**
 
